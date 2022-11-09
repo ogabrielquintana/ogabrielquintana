@@ -1,2 +1,13 @@
-Oi, tudo bem? 
-Me chamo Gabriel Quintana, podem me chamar de Tony. Atualmente estou cursando Ciência da Computação na PUC-RS. Meus interesses pessoais são abraços quentinhos e aprender linguagens de programação novas para me auxiliar a ter novas ideias, criativas e fora da caixa, para meus códigos. É um prazer lhe conhecer! E seja bem vind@ ao meu perfil! :)
+:one::nine: anos, estudante de Ciência da Computação :computer: na PUC-RS :mortar_board:. 
+
+Conhecimento avançado em: :arrow_down:
+
+JAVA :coffee:;
+
+Python :snake:. 
+
+Atualmente aprendendo: :arrow_down:
+
+HTML :hash:;
+
+JAVAScript :yellow_square:.
