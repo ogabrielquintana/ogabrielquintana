@@ -1,4 +1,4 @@
-Hey, my name is Gabriel Quintana and I'm a Computer Science studant at Pontifical Catholic University of Rio Grande do Sul(PUCRS). Welcome to my profile on github, here is where I'll leave my projects for whoever may want. Hope you'll find it usefull 🤓👍.
+Hey, my name is Gabriel Quintana and I'm a Computer Science studant at Pontifical Catholic University of Rio Grande do Sul(PUCRS). Welcome to my profile on github, here is where I'll leave my projects.
 
 <div align="center">
   <a href>
